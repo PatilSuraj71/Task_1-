@@ -1,0 +1,60 @@
+AI QUESTIONS AND ANSWERS
+
+Llama is developed by which company? — Llama is developed by Meta.
+Gemini is developed by which company? — Gemini is developed by Google.
+Claude is developed by which company? — Claude is developed by Anthropic.
+Grok is developed by which company? — Grok is developed by xAI.
+Who develops Mistral models? — Mistral models are developed by Mistral AI.
+Which company created GPT? — OpenAI created the GPT model family.
+What is Sora used for? — Sora is mainly used to create videos using AI.
+Who developed Veo? — Veo is an AI video model developed by Google.
+What is Midjourney used for? — Midjourney is mainly used to create images from text descriptions.
+What is GitHub Copilot used for? — GitHub Copilot helps developers write and complete code using
+
+What does LLM mean? — LLM means Large Language Model, which is an AI model that understands and generates text.
+What is Generative AI? — Generative AI is AI that can create new things like text, images, audio, and videos.
+What is a prompt? — A prompt is the instruction or question we give to an AI.
+What is a system prompt? — A system prompt tells the AI how it should behave and what rules it should follow.
+What is multimodal AI? — Multimodal AI can work with different types of information such as text, images, audio, and video.
+What is an AI hallucination? — An AI hallucination happens when AI gives false or made-up information as if it were correct.
+What are tokens? — Tokens are small pieces of text that an AI model reads and processes.
+What is a context window? — A context window is how much information an AI can remember and use at one time.
+What is inference? — Inference is when an AI model uses what it has learned to produce an answer or prediction.
+What is fine-tuning? — Fine-tuning means training an already-trained AI model with specific data to make it better at a particular task.
+
+What is fine-tuning? — Fine-tuning means training an already-trained AI model with specific data to make it better at a particular task.
+
+SECTION C — AI FOR DEVELOPERS
+
+What is an AI agent? — An AI agent is a system that can think through a task, use tools, and take actions to achieve a goal.
+What is the difference between a chatbot and an AI agent? — A chatbot mainly answers questions, while an AI agent can take actions and complete tasks.
+What is tool or function calling? — It allows AI to use external tools or functions to perform tasks.
+What does MCP mean? — MCP means Model Context Protocol, which helps AI applications connect with tools and data.
+Why do we use an API key? — An API key is used to identify and authorize a user or application when accessing an AI service.
+What is an API rate limit? — It is a limit on how many requests we can send to an API within a certain time.
+What is Cursor? — Cursor is an AI-powered code editor that helps developers write and understand code.
+What is NotebookLM used for? — NotebookLM helps users understand, summarize, and ask questions about their documents.
+What is semantic search? — Semantic search finds information based on the meaning of the question instead of only matching exact words.
+How can developers use Generative AI? — Developers can use it for writing code, finding bugs, and creating documentation.
+
+What is speech-to-text? — Speech-to-text AI converts our spoken words into written text.
+What is text-to-speech? — Text-to-speech AI converts written text into spoken voice.
+What is OCR? — OCR allows a computer to read and extract text from an image.
+What is a vision model? — A vision model is an AI model that can understand and analyze images or other visual information.
+What is text-to-video AI? — Text-to-video AI creates a video based on a written description.
+What is a diffusion model used for? — Diffusion models are commonly used to generate images, videos, and other content.
+Why are GPUs used for AI? — GPUs are useful for AI because they can perform many calculations at the same time.
+What is an NPU? — An NPU is a processor specially designed to handle AI-related tasks efficiently.
+What does VRAM store? — VRAM mainly stores AI model data and calculations while the model is running.
+What does running an AI model locally mean? — It means running the AI model directly on your own computer instead of using an online server.
+
+What is an open-weight AI model? — It is an AI model whose trained weights are made available for others to use.
+What is model distillation? — Model distillation means using a large model to teach a smaller model how to perform similar tasks.
+What is LoRA used for? — LoRA is commonly used to fine-tune large AI models with less computing power.
+What does MoE mean? — MoE means Mixture of Experts, where different parts of the model handle different tasks.
+What is an AI benchmark? — An AI benchmark is a standard test used to measure and compare the performance of AI models.
+What is a guardrail? — A guardrail is a safety rule that prevents an AI application from doing harmful or unwanted things.
+What is prompt injection? — Prompt injection is an attack where someone tries to trick an AI into ignoring its original instructions.
+What does PII mean? — PII means Personally Identifiable Information, such as information that can identify a person.
+Why should we not put confidential company data into public AI tools? — We should avoid it because sensitive company information could be exposed or misused.
+What should you do before trusting an AI answer for an important decision? — You should check the information against reliable sources before using it.
